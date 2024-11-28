@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Tai Anh
-* Student ID: 22BI13028
+* Student Name: Le Van Truong
+* Student ID: 22BI13440
 * Student Group ID: 1   
